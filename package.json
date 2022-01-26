@@ -19,6 +19,7 @@
   "homepage": "https://github.com/seene3/just-tech-news#readme",
   "start": "node server.js",
   "dependencies": {
+    "dotenv": "^14.3.2",
     "express": "^4.17.2",
     "mysql2": "^2.3.3",
     "sequelize": "^6.14.1"
